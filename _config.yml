@@ -1,0 +1,23 @@
+title: SchmitCodes
+description: This page is for documenting portfolio projects and blogging about current topics.
+baseurl: ""
+url: "https://SchmitCodes.github.io"
+
+# Personal Info
+author:
+  name: Shannon Smith
+  email: ssmit584@charlotte.edu
+  location: Charlotte, NC
+  university: UNC Charlotte
+  github: SchmitCodes
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - blog.md
+  - portfolio.md
+  - about.md
